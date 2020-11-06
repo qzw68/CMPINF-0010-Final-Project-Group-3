@@ -2,6 +2,7 @@
 Group 3's Repository For the Final Project For Big Ideas In Computing and Information 
 
 ### Team name
+Dynamic Duo
 
 ### Team Members
 - Rohaan Wasim, ROW62@pitt.edu
